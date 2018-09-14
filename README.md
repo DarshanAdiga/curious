@@ -1,3 +1,3 @@
-# curious
+# sample-ML
 
-Sample machine learning code snippet for puchche!
+Sample machine learning code snippets
